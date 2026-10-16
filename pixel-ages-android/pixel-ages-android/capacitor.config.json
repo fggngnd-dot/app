@@ -1,0 +1,9 @@
+{
+  "appId": "com.pixelages.game",
+  "appName": "Pixel Ages",
+  "webDir": "www",
+  "backgroundColor": "#150f22",
+  "android": {
+    "allowMixedContent": false
+  }
+}
